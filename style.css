@@ -1,0 +1,71 @@
+button {
+    border: solid black 1px;
+    padding: 15px 15px;
+}
+
+#container{
+	width: 600px;
+	height: 700px;
+	margin: auto;
+	border: solid black 1px;
+}
+#optionMenu{
+	margin-left: 20px;
+	margin-top: 20px;
+	display: none;
+}
+#guess button{
+	background-color: white;
+	height: 25px;
+	width: 50px;
+	padding: 5px 5px;
+}
+
+#game{
+	
+}
+#grid{
+	margin: 10px;
+	width: 170px;
+	float: left;
+}
+#grid button{
+	margin: 5px;
+}
+#rows{
+	border-bottom: solid black 1px;
+}
+#input{
+	width: 30px;
+	float: right;
+	margin: 10px;
+}
+#endScreen{
+	display: none;
+}
+
+
+#red{
+	background-color: red;
+}
+#orange{
+	background-color: orange;
+}
+#yellow{
+	background-color: yellow;
+}
+#green{
+	background-color: green;
+}
+#blue{
+	background-color: blue;
+}
+#purple{
+	background-color: purple;
+}
+#pink{
+	background-color: pink;
+}
+#white{
+	background-color: white;
+}
